@@ -1,4 +1,4 @@
-Github Organization del grupo Gregoneta
+# Grupo Gregoneta
 
 Materia: Ingeniería del Software 1
 
