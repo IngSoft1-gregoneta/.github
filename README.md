@@ -1,6 +1,5 @@
-# .github
-
 Github Organization del grupo Gregoneta
+
 Materia: Ingeniería del Software 1
 
 Integrantes:
